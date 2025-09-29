@@ -29,14 +29,6 @@ I am passionate about **Data Analytics, Business Intelligence, and Product Analy
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
-## 📂 Featured Projects  
-
-🔹 [**Data Cleaning & Analysis in SQL**](#) – Built a project showcasing advanced SQL queries and transformations.  
-🔹 [**Interactive Power BI Dashboard**](#) – Created a dashboard to track KPIs and visualize data trends.  
-🔹 [**Geospatial Data Analysis**](#) – Internship work at ISRO on DEM preprocessing & validation using Python and SQL.  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansibhujade&show_icons=true&theme=radical)  
